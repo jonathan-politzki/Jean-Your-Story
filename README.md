@@ -57,7 +57,7 @@ npm >= 8.0.0
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/life-story-generator.git
+git clone https://github.com/yourusername/jean-your-story.git
 
 # Install dependencies
 cd life-story-generator
@@ -123,7 +123,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses AI technologies from Anthropic's Claude platform
 
 ## Contact
-For questions or collaboration opportunities, please contact [your-email@example.com]
+For questions or collaboration opportunities, please contact [jonathan@irreverent-capital.com]
 
 ## About
 Life Story Generator is an open-source project dedicated to making life story preservation accessible and meaningful. We believe every life story deserves to be told, and we're using AI to make that process as natural and effective as possible.
